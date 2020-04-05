@@ -1,15 +1,16 @@
 Package: com.apple.qswhelper
-Version: 0.0.1-15+debug
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: yyy
-Installed-Size: 3000
-Filename: debs/com.apple.qswhelper_0.0.1-15+debug_iphoneos-arm.deb
-Size: 750572
-MD5sum: b5254c6c41e9478456710854d79ccc43
-SHA1: 7adeff8fb13085396eb094ddb1a94c1a70cfa95c
-SHA256: 1dffe0298bb59468137cd64361f28ff4db238be7f81a648ecbf04af3846b4269
+Installed-Size: 2688
+Depends: firmware (>=10.0) mobilesubstrate
+Filename: debs/com.apple.qswhelper_0.0.1_iphoneos-arm.deb
+Size: 670722
+MD5sum: a9c580ca426777e82c289f0386b92775
+SHA1: 0baa8c0bef6e930805276ee8c11e7d94a3a211bd
+SHA256: 4edf5461c4de8e9e677aa9d224217b69b6f02f0b447676ed8e307c42168f34b3
 Section: System
-Description: 轻松玩越狱版!
+Description: 轻松玩越狱版!\nqq:276523923\ntelegram:https://t.me/qswapp
 Author: yyy
-Name: qswhelper
+Name: eplay
 
