@@ -1,0 +1,15 @@
+Package: com.apple.qswhelper
+Version: 0.0.1-15+debug
+Architecture: iphoneos-arm
+Maintainer: yyy
+Installed-Size: 3000
+Filename: debs/com.apple.qswhelper_0.0.1-15+debug_iphoneos-arm.deb
+Size: 750572
+MD5sum: b5254c6c41e9478456710854d79ccc43
+SHA1: 7adeff8fb13085396eb094ddb1a94c1a70cfa95c
+SHA256: 1dffe0298bb59468137cd64361f28ff4db238be7f81a648ecbf04af3846b4269
+Section: System
+Description: 轻松玩越狱版!
+Author: yyy
+Name: qswhelper
+

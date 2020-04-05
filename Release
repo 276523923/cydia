@@ -1,8 +1,8 @@
-Origin: QSW 软件源™
-Label: QSW
+Origin: 轻松玩 软件源™
+Label: 轻松玩
 Suite: stable
 Version: 1.0
-Codename: EchosDaddy
+Codename: 轻松玩
 Architectures: iphoneos-arm
 Components: main
-Description: EchosDaddy 软件源
+Description: 轻松玩 软件源
