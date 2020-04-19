@@ -1,14 +1,14 @@
 Package: com.apple.qswhelper
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: yyy
 Installed-Size: 2840
 Depends: firmware (>=10.0), mobilesubstrate
-Filename: debs/com.apple.qswhelper_0.0.2_iphoneos-arm.deb
-Size: 824198
-MD5sum: dd8c0d7ea7b121eda72316f815d18414
-SHA1: 58d75691fcd60cc4d496b991cb8871bb248682f3
-SHA256: f16aa6d3d6722117d8626a5661168d396c0009b59ee71595d3a91b82353ab8d6
+Filename: debs/com.apple.qswhelper_1.0.0_iphoneos-arm.deb
+Size: 823890
+MD5sum: 3b20821f139db1ba8e63705e17295ed0
+SHA1: 3df76b943266d45d8b45c64f757feedbcde421da
+SHA256: fd475f81d4522e657e8787712a164c7e4e86919717d99fd0611fa6d35abd5b30
 Section: System
 Description: 轻松玩越狱版!
 Author: yyy
