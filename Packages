@@ -5,10 +5,10 @@ Maintainer: yyy
 Installed-Size: 2876
 Depends: firmware (>=10.0), mobilesubstrate
 Filename: debs/com.apple.qswhelper_1.0.4_iphoneos-arm.deb
-Size: 828852
-MD5sum: cab930488103579319a2e73b42ed3274
-SHA1: 617db7bd3ad193e3e0ee41550380a24260ec1383
-SHA256: b2d07e6aa3223503f7d3b6593029d1805bd5f2ccd2020789af992811af45550d
+Size: 828436
+MD5sum: 4636a129d7f29b122f12c6b20da9a288
+SHA1: aa4300472b185fb771c3dfd28ab7af6ef5c9ec0c
+SHA256: ec47da009e130bc0dbc359228aebf63271dcd7d056ba72b0a5dd6bbdf057fbd5
 Section: System
 Description: 轻松玩越狱版!
 Author: yyy
