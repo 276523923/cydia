@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: yyy
 Installed-Size: 2840
 Depends: firmware (>=10.0), mobilesubstrate
-Filename: debs/com.apple.qswhelper_0.0.1_iphoneos-arm.deb
+Filename: debs/com.apple.qswhelper_0.0.2_iphoneos-arm.deb
 Size: 824198
 MD5sum: dd8c0d7ea7b121eda72316f815d18414
 SHA1: 58d75691fcd60cc4d496b991cb8871bb248682f3
