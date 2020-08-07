@@ -1,0 +1,16 @@
+Package: com.apple.qswhelper
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: yyy
+Installed-Size: 2916
+Depends: firmware (>=10.0), mobilesubstrate
+Filename: debs/com.apple.qswhelper_1.0.8_iphoneos-arm.deb
+Size: 733994
+MD5sum: 4d9dc90f4f3468262eaf42831b0c4808
+SHA1: 2f5fd53640e009ffdf7f46e5c5bff9ca1d57cf91
+SHA256: 325820df84f8f29dcbdce2bfcc955b0325d5888b8713c065f6714df8467823f7
+Section: System
+Description: 轻松玩越狱版!
+Author: yyy
+Name: eplay
+
