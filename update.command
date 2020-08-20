@@ -9,5 +9,6 @@ bzip2 -fks Packages
 git add .
 git commit -am "插件更新"
 git push
+git push coding
 echo "================================================"
 exit 0
